@@ -28,11 +28,10 @@ while (true)
     string playAgain = Console.ReadLine() ?? "";
     if (playAgain.ToLower() == "n")
         break;
-    else
-    {
-        Console.WriteLine("Let's play again!");
-        userGuess = int.Parse(Console.ReadLine() ?? "");
-        cpuGuess = Random.Shared.Next(0, 10);
-        Console.WriteLine(userGuess == cpuGuess ? "You guessed it!" : "You guessed wrong!");
-    }
+    
+    Console.WriteLine("Let's play again!");
+    userGuess = int.Parse(Console.ReadLine() ?? "");
+    
+    cpuGuess = Random.Shared.Next(0, 10);
+    Console.WriteLine(userGuess == cpuGuess ? "You guessed it!" : "You guessed wrong!");
 }

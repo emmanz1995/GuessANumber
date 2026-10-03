@@ -12,3 +12,4 @@
 /Users/emmanuelokuchukwu/RiderProjects/GuessANumber/obj/Debug/net10.0/GuessANumber.pdb
 /Users/emmanuelokuchukwu/RiderProjects/GuessANumber/obj/Debug/net10.0/GuessANumber.genruntimeconfig.cache
 /Users/emmanuelokuchukwu/RiderProjects/GuessANumber/obj/Debug/net10.0/ref/GuessANumber.dll
+/Users/emmanuelokuchukwu/RiderProjects/GuessANumber/obj/Debug/net10.0/GuessANumber.sourcelink.json
